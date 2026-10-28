@@ -12,6 +12,15 @@
     left: 200px;
     background: lightblue;
 }
+.box2 {
+    width: 150px;
+    height: 70px;
+    margin: 10px;
+    position: relative;
+    top: 200px;
+    left: 200px;
+    background: lightblue;
+}
 
 .relative-box {
     position: relative;
