@@ -1,0 +1,21 @@
+.margin-example {
+    margin: 40px;
+    background-color: lightblue;
+    padding: 10px;
+}
+.box {
+    width: 150px;
+    height: 70px;
+    margin: 10px;
+    position: relative;
+    top: 200px;
+    left: 200px;
+    background: lightblue;
+}
+
+.relative-box {
+    position: relative;
+    top: 20px;
+    left: 30px;
+    background: orange;
+}
